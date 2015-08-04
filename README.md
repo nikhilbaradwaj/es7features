@@ -27,10 +27,6 @@ respective transpiled code to es5.
     $ npm install
     $ gulp test
 
-## Credits
-
-Nikhil Baradwaj
-
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
